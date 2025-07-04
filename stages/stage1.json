@@ -1,0 +1,21 @@
+{
+  "id": 1,
+  "title": "Basic Greetings",
+  "description": "เรียนรู้การทักทายพื้นฐาน",
+  "sentences": [
+    {
+      "id": 1,
+      "text": {
+        "en": "Hello",
+        "th": "สวัสดี",
+        "zh": "你好"
+      },
+      "pronunciation": {
+        "th": "สะ-หวัด-ดี",
+        "zh": "nǐ hǎo"
+      }
+    }
+  ],
+  "isNew": false,
+  "availableDate": "2025-01-01"
+}

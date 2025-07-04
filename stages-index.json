@@ -1,0 +1,20 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2025-01-20",
+  "stages": [
+    {
+      "id": 1,
+      "title": "Basic Greetings",
+      "url": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/stages/stage1.json",
+      "isNew": false,
+      "availableDate": "2025-01-01"
+    },
+    {
+      "id": 2,
+      "title": "Daily Conversations",
+      "url": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/stages/stage2.json",
+      "isNew": true,
+      "availableDate": "2025-01-15"
+    }
+  ]
+}
