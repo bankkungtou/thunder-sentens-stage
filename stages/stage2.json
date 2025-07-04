@@ -1,0 +1,88 @@
+{
+  "id": 2,
+  "title": "Daily Conversations",
+  "description": "บทสนทนาในชีวิตประจำวัน",
+  "difficulty": "beginner",
+  "estimatedTime": "10-15 minutes",
+  "sentences": [
+    {
+      "id": 3,
+      "text": {
+        "en": "How are you?",
+        "th": "สบายดีไหม",
+        "zh": "你好吗？"
+      },
+      "pronunciation": {
+        "th": "สะ-บาย-ดี-ไหม",
+        "zh": "nǐ hǎo ma?"
+      },
+      "audioUrl": {
+        "en": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/en/sentence3.mp3",
+        "th": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/th/sentence3.mp3",
+        "zh": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/zh/sentence3.mp3"
+      }
+    },
+    {
+      "id": 4,
+      "text": {
+        "en": "Thank you",
+        "th": "ขอบคุณ",
+        "zh": "谢谢"
+      },
+      "pronunciation": {
+        "th": "ขอบ-คุณ",
+        "zh": "xiè xiè"
+      },
+      "audioUrl": {
+        "en": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/en/sentence4.mp3",
+        "th": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/th/sentence4.mp3",
+        "zh": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/zh/sentence4.mp3"
+      }
+    },
+    {
+      "id": 5,
+      "text": {
+        "en": "See you later",
+        "th": "แล้วพบกันใหม่",
+        "zh": "再见"
+      },
+      "pronunciation": {
+        "th": "แล้ว-พบ-กัน-ใหม่",
+        "zh": "zài jiàn"
+      },
+      "audioUrl": {
+        "en": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/en/sentence5.mp3",
+        "th": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/th/sentence5.mp3",
+        "zh": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/zh/sentence5.mp3"
+      }
+    },
+    {
+      "id": 6,
+      "text": {
+        "en": "Have a nice day",
+        "th": "ขอให้มีความสุข",
+        "zh": "祝你今天愉快"
+      },
+      "pronunciation": {
+        "th": "ขอ-ให้-มี-ความ-สุข",
+        "zh": "zhù nǐ jīn tiān yú kuài"
+      },
+      "audioUrl": {
+        "en": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/en/sentence6.mp3",
+        "th": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/th/sentence6.mp3",
+        "zh": "https://raw.githubusercontent.com/[username]/thunder-sentence-data/main/audio/zh/sentence6.mp3"
+      }
+    }
+  ],
+  "rewards": {
+    "stars": 3,
+    "experience": 50,
+    "unlocks": [3]
+  },
+  "prerequisites": [1],
+  "isNew": true,
+  "availableDate": "2025-01-15",
+  "tags": ["conversation", "daily", "beginner"],
+  "version": "1.0",
+  "lastUpdated": "2025-01-20T10:00:00Z"
+}
